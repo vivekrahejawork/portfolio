@@ -53,7 +53,7 @@ export default function Hero() {
             transition={{ duration: 0.8, ease: "easeOut" }}
             className="flex justify-center"
           >
-            <div className="relative w-full max-w-md aspect-square rounded-3xl overflow-hidden shadow-2xl">
+            <div className="relative w-full max-w-md aspect-square rounded-full overflow-hidden shadow-2xl">
               <Image
                 src="/vivek-photo.jpeg"
                 alt="Vivek Raheja"
